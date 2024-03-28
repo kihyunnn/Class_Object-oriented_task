@@ -1,0 +1,7 @@
+Class_Object oriented_task.vcxproj
+
+Class_Object oriented_task.vcxproj.filters
+
+Class_Object oriented_task.vcxproj.user
+
+x64/
