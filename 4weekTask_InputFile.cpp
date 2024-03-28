@@ -39,7 +39,7 @@ int main() {
         cin >> quoted(number);
         cout << endl;
 
-        outFile << quoted(name) << " " << age << " " << number << endl;
+        outFile << quoted(name) << " " << age << " " << gpa << "" << quoted(number) << endl;
     }
     outFile.close(); // ÆÄÀÏ ´İ±â
 
