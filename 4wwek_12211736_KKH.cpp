@@ -34,5 +34,5 @@ void readAndPrintArray(string name[], int age[], float gpa[], string phoneNumber
         count++;
     } // while
     cout << "-----------------------------------------------------------------" << endl;
-    cout << "저장된 친구 수는" << count << "명 입니다." << endl;
+    cout << "저장된 친구 수는 " << count << "명 입니다." << endl;
 }
