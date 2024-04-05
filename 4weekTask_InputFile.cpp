@@ -25,7 +25,7 @@ int main() {
     }
 
     cout << "친구 수를 입력하세요 : ";
-    cin >> friendNum;
+    cin >> friendNum; //친구수를 입려받습니다.
     cout << endl;
 
     for (int i = 0; i < friendNum; i++) {
